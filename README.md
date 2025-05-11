@@ -1,4 +1,6 @@
-# TARS from Interstellar x ChatGPT
+# Forked from poboisvert/GPTARS_Interstellar
+
+## TARS from Interstellar x ChatGPT
 
 - Telegram: [https://t.me/GPTARS](https://t.me/GPTARS)
 
